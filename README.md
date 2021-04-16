@@ -1,0 +1,2 @@
+# AutolootTibia
+Autoloot 
